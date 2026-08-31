@@ -1,0 +1,7 @@
+docling
+langchain
+langchain-community
+langgraph
+langchain-nvidia-ai-endpoints
+streamlit
+
